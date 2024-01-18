@@ -1,0 +1,8 @@
+﻿  game.c
+D:\C-code\chapter04\Project3\Project3\game.c(41,11): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+D:\C-code\chapter04\Project3\Project3\game.c(42,11): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+D:\C-code\chapter04\Project3\Project3\game.c(44,14): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+D:\C-code\chapter04\Project3\Project3\game.c(45,14): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+  源.c
+  正在生成代码...
+  Project3.vcxproj -> D:\C-code\chapter04\Project3\Debug\Project3.exe
